@@ -59,13 +59,8 @@ Once you submit the form:
 * **Metric:** **F1-Score** (calculated specifically on the Illicit class).
 
 ## 2. The Data
-* **Nodes:** Bitcoin transactions.
-* **Edges:** The flow of BTC between transactions.This is adjancecy matrix (edgelist.csv).
-* **Features:** 165 local and aggregate features.
-
-**Train-set size** = 16658
-
-**Test-set size** = 8896
+* **Nodes (Node Feature Matrix (X)):** Bitcoin transactions.165 local and aggregate features. (Train =  16658 , Test = 8896)
+* **Edges (adjacency matrix (A)) :** The flow of BTC between transactions.
 
 
 ## 3. Difficulty level:
