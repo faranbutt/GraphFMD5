@@ -63,8 +63,8 @@ Once you submit the form:
 * **Edges:** The flow of BTC between transactions.This is adjancecy matrix (edgelist.csv).
 * **Features:** 165 local and aggregate features.
 
-
-
+**Train-set size ** = 16658
+**Test-set size ** = 8896
 
 
 ## 3. Difficulty level:
