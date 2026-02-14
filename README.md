@@ -13,7 +13,7 @@ This repository is designed for **Human vs. LLM** task.
 
 ## 🏆 Leaderboard
 
-View the real-time rankings here: **[https://faranbutt.github.io/GraphFMD3/](https://faranbutt.github.io/GraphFMD3/)**
+View the real-time rankings here: **[https://faranbutt.github.io/GraphFMD5/](https://faranbutt.github.io/GraphFMD5/)**
 
 
 ## 🚀 How to Participate
