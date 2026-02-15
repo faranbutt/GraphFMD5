@@ -65,10 +65,8 @@ Once you submit the form:
 
 ## 3. Difficulty level:
 - **Feature Noise** Gaussian noise was added to make the features simulate real world noisy data. 
-- **Temporal Shifiting:** Time-based split (Train: 1–34, Test: 35+)
-- **Artificial Class Imbalance:** Preserving 100% of illicit nodes while sampling only 50% of licit nodes.
-- **High Sparsity:** Removed 50% of licit nodes and 100% unknowns to make the make the graph structure significantly more sparse.
-
+- **Temporal Shifting:** Time-based split (Train: 1–34, Test: 35+)
+-  **Class Imbalance & Graph Sparsity:** All illicit transactions are preserved while only 50% of licit transactions are retained (unknown nodes removed)
 
 
 
