@@ -53,7 +53,7 @@ Once you submit the form:
 
 ## 1. Task Overview
 
-* **Task:** Binary Node Classification (Licit vs. Illicit).
+* **Task:** Temporal Inductive Node Classification (Licit vs. Illicit).
 * **Domain:** Cryptocurrency (Bitcoin) Forensics.
 * **Target:** Predict the class label of each transaction (Illicit = 1, Licit = 2).
 * **Metric:** **Macro-F1 across both classes (Illicit and Licit)**.  
