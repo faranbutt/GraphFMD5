@@ -1,4 +1,4 @@
-# 💵 GraphFMD: Graph based Financial Misconduct Detection
+#  GraphFMD: Graph based Financial Misconduct Detection 💸⃤⛃ᯓ ✈︎
 
 **GraphFMD** is a benchmark competition for detecting illicit transactions on the Bitcoin network. Using GNN and the **Elliptic Dataset**, participants must identify fraudulent activity within a complex transaction graph.
 
