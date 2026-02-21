@@ -152,7 +152,6 @@ For questions regarding the competition setup, data preprocessing or automated s
 ### Learning Resources
 * **[Basira Lab]** [Deep Graph Learning Playlist](https://www.youtube.com/watch?v=gQRV_jUyaDw&list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T) – Essential video tutorials for GNN fundamentals.
 * **[Basira Lab]** [Deep Graph Learning GitHub](https://github.com/basiralab/DGL) – Codebase and implementations for graph-based models.
-* **[DiaGraph]** [Maha Trabelsi - Node Classification Under Noise](https://github.com/mahatrabelsi1/GNN-MVP-Node-Classification-Under-Noise) – This project provided foundational inspiration for the noise-robustness and automated evaluation framework used in this competition.
 ---
 
 ### Datasets
