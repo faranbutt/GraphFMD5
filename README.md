@@ -136,7 +136,7 @@ If you use this challenge, dataset, or repository in your research, please cite:
   title={GraphFMD: Graph-based Financial Misconduct Detection Benchmark},
   author={Faran Taimoor Butt},
   year={2026},
-  url = {https://github.com/faranbutt/GraphFMD3}
+  url = {https://github.com/faranbutt/GraphFMD}
 }
 ```
 
